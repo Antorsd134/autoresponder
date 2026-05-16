@@ -1,0 +1,4 @@
+aiogram>=3.4,<4.0
+playwright>=1.40
+aiohttp>=3.9
+aiofiles>=23.0

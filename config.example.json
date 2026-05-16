@@ -1,0 +1,12 @@
+{
+  "telegram_bot_token": "YOUR_BOT_TOKEN_HERE",
+  "admin_chat_id": 123456789,
+  "ollama_url": "http://localhost:11434",
+  "ollama_model": "llama3.1:8b-instruct-q4_0",
+  "vision_api_url": "http://localhost:3000",
+  "check_interval_min": 30,
+  "check_interval_max": 90,
+  "typing_delay_min": 50,
+  "typing_delay_max": 150,
+  "accounts": {}
+}
