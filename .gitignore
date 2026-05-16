@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+venv/
+env/
+data/cookies/*.json
+data/proxies.txt
+config.json
+*.log
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
